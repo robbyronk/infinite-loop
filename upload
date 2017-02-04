@@ -1,0 +1,2 @@
+yarn build
+s3cmd put -r dist/ s3://infinite-loop.zonelist.co --no-mime-magic --guess-mime-type
