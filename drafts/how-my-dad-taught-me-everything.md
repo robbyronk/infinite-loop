@@ -1,0 +1,6 @@
+- My dad likes to joke that he taught me everything I know
+- It's a classic dad joke, but it's actually true
+- He told me to "pick the brains of those around you"
+- Everyone has something to teach you
+- Ask questions and don't worry about what people will think
+- People love to be experts, asking questions will make them feel good
